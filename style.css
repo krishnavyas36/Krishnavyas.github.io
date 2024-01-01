@@ -28,6 +28,35 @@ nav ul {
     justify-content: space-around;
 }
 
+section {
+    margin: 1em 0;
+    padding: 1em;
+}
+
+#about {
+    background-color: #cce5ff; /* Light blue background for About section */
+}
+
+#resume {
+    background-color: #d9ead3; /* Light green background for Resume section */
+}
+
+#projects {
+    background-color: #ffd966; /* Light yellow background for Projects section */
+}
+
+#contact {
+    background-color: #ffb3b3; /* Light red background for Contact section */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-top: 1px solid #555; /* Add a subtle border */
+}
+
+
 nav a {
     text-decoration: none;
     color: #fff;
